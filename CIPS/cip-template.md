@@ -5,7 +5,7 @@
         "authors": [
           {
             "name": "Author Name",
-            "email": ""
+            "email": "@"
           }
         ],
         "status": "draft",
@@ -21,13 +21,16 @@ Write abstract here.
 ---
 ## Theoria
 
+Describe the problem and the motivation for the proposal.
 
 ## Praxis
+
+Describe the proposal and its implementation.
 
 
 ## Poiesis
 
-
+Describe the impact of the proposal.
 
 ---
 # References
