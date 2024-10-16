@@ -19,16 +19,16 @@
 Write abstract here.
 
 ---
-## Theoria
+## Problem
 
 Describe the problem and the motivation for the proposal.
 
-## Praxis
+## Solution
 
 Describe the proposal and its implementation.
 
 
-## Poiesis
+## Impact
 
 Describe the impact of the proposal.
 
